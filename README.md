@@ -35,9 +35,9 @@ $ pip2 install mechanize
 
 $ git clone https://github.com/gantaiV1/GANTAI
 
-$ cd SpamSms
+$ cd GANTAI
 
-$ python2 Spam.py
+$ python2 GANTAI.py
 
 Kali Linux :
 
