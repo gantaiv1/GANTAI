@@ -1,8 +1,9 @@
 # 7 Tools Spam Sms
+@@#@#@#@#@#@#@#@#@#@#@#@#@#@##
+#   NOTE BAD                23
+@   NOTE BAD                23
+#@#@#@#@#@#@#@#@#@#@#@#@#@##@#
 
-![IMG_20200313_140123](https://user-images.githubusercontent.com/59508497/76597574-57dc1500-6533-11ea-9cba-b568e1c875c6.JPG)
-
-```
 
 Indonesia :
 
