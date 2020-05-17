@@ -32,7 +32,7 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/Fukur0-3XP/SpamSms
+$ git clone https://github.com/gantai001/GANTAI
 
 $ cd SpamSms
 
@@ -48,11 +48,11 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-$ git clone https://github.com/Fukur0-3XP/SpamSms
+$ git clone https://github.com/gantai001/GANTAI
 
-$ cd SpamSms
+$ cd GANTAI
 
-$ python2 Spam.py
+$ python2 GANTAI.py
 
 ```
 
@@ -60,12 +60,12 @@ $ python2 Spam.py
 
 ```
 
-Creator : ./FUKUR0-3XP
+Creator : GANTAI
 
-Team : Black Coders Anonymous Satanic Exploiter Team
+Team : GHOUL
 
-Instagram : ricko.3xp_
+Instagram : -
 
-Email : 3xp.fukur0@gmail.com
+Email : gantai418@gmail.com
 
 ```
