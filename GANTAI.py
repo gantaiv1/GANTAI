@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # Author : ./GANTAI
-# Team : Black Coders Anonymous Satanic Exploiter Team ( BCA - X666X )
+# Team : GHOUL ( BCA - X666X )
 # Apa Liat Liat ? Mau Recode ? >_<
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
@@ -30,14 +30,15 @@ try:
 	
 	def Banner():
 		Tik(''+C+'''
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @                                         @
-    @          EDITING BY GANTAI              @
-    @                                         @
-    @                                         @
-    @                                         @
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                 
+	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @                                    @
+    @     CREATE BY GANTAI               @
+    @                                    @
+    @                                    @
+    @                                    @
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                
       |_|  '''+W+'Creator : ./gantaiv1\n\t\tYT : ghoul Cyber')
+
 
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
@@ -716,7 +717,4 @@ except ImportError:
 if __name__ == '__main__':
 	print(C+'SELAMAT'+W+' MENCOBA !'+C+' :V')
 	sleep(2)
-	os.system('clear')
-	os.
-	sleep(7)
 	Spam()
